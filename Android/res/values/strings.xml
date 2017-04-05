@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UPES-AI-APP</string>
+
+    <array name="Branch">
+       <item>CSE-Open Source</item>
+        <item>CSE-Cyber Security</item>
+        <item>CSE-Cloud</item>
+    </array>
+
+
+</resources>
